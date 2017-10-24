@@ -5,7 +5,7 @@ This is the first project in Udacity's Self-Driving Car NanoDegree program. I us
 
 [P1.ipynb](P1.ipynb).
 
-As part of the project I wrote a writeup,
+As part of the project I created a write-up,
 
 [writeup.md](writeup.md),
 
